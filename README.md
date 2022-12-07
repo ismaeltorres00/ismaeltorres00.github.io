@@ -53,3 +53,6 @@ Estudié Bachillerato Tecnológico en el IES Cayetano Sempere
 * *Número de teléfono:* 673778523
 * *Correo:* [ismaeltorres.ofi@gmail.com](mailto:ismaeltorres.ofi@gmail.com)
 * *LinkedIn:* [Ismael Torres](https://www.linkedin.com/in/ismael-t-7a5571108/)
+
+
+*Versión pdf de mi curriculum* [Curriculum](Ismael-torres-curriculum.pdf)
